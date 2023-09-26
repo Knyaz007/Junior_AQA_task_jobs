@@ -1,5 +1,6 @@
 # Junior_AQA_task_jobs
 !!!! Предпологается что у вас установлен Doker(https://www.docker.com/get-started/)
+
 1)Перейдите в папку репозитория
 
 2)Достанте файл obraz.tar из архива 
